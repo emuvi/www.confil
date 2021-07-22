@@ -1,2 +1,1 @@
-# www.confil
-ConFil - Consultório Filosófico WebSite
+# ConFil - Consultório Filosófico
